@@ -1,4 +1,4 @@
-### Week 4: Predictive Modeling and Optimization in Logistics Systems
+Predictive Modeling and Optimization in Logistics Systems
 **File:** `logistics_predictive_model.py`
 * **Objective:** Develop an end-to-end predictive machine learning model to forecast delivery durations and propose actionable route optimization strategies.
 * **Key Features:**
